@@ -1,2 +1,2 @@
 # clone-tabnews
-implementação para projeto do tabnews
+Implementação para projeto do tabnews
